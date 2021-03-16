@@ -44,5 +44,3 @@
         document.getElementById('user-list').appendChild(newEl);
     }
 })();
-
-
