@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-image: url("https://source.unsplash.com/1600x900/?cloud");
+}
+
+.container {
+    margin-top: 200 px;
+    background-color: rgb(145, 240, 235);
+    width: 300 px;
+    height: auto;
+    padding: 1 rem;
+    border-radius: 5 px;
+}
+
+button {
+    margin: 1 rem;
+}
