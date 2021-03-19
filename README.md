@@ -1,8 +1,8 @@
 ### JAVASCRIPT SEMESTER 1
 
-##### This is the basics of Javascript folder of Helsinki Business College Javascript- course of Semester 1 / Spring 2021. All course was done via Teams lectures and selfstudy tasks.
+##### Javascript folder of Helsinki Business College JS- course in Semester 1 / Spring 2021. Course was done via Teams lectures and selfstudy tasks.
 
-###### JS folder is divided between two teachers: Margit / Hoang, in order to keep up with the tasks given and lessons learned. The folder is for learning purposes only.
+###### JS folder is divided between two teachers: Margit / Hoang, in order to keep track of the tasks goven. The folder is for learning purposes only.
 
 ###### THEORY FROM:
 
