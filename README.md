@@ -4,9 +4,9 @@
 
 ###### JS folder is divided between two teachers: Margit / Hoang, in order to keep up with the tasks given and lessons learned. The folder is for learning purposes only.
 
-# THEORY FROM:
+###### THEORY FROM:
 
-# Eloquent, Javascript, 3rd Ed.
+###### Eloquent, Javascript, 3rd Ed.
 
 ###### Margit
 
@@ -19,4 +19,4 @@
 * CSS
 ```
 
-# Updates will come during learning
+###### Updates will when learning more to keep up the learning journey.
