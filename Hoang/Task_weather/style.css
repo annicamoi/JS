@@ -1,18 +1,30 @@
 body {
+    font-family: "Source Sans Pro", sans-serif;
     display: flex;
     justify-content: center;
     background-image: url("https://source.unsplash.com/1600x900/?cloud");
 }
 
 .container {
+    display: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: small;
     margin-top: 200 px;
-    background-color: rgb(145, 240, 235);
+    background-color: rgb(212, 233, 232);
     width: 300 px;
     height: auto;
     padding: 1 rem;
-    border-radius: 5 px;
+    border-radius: 30px;
+    padding: 20px;
+    width: 200px;
+    height: 200px;
 }
 
 button {
+    font-family: "Source Sans Pro", sans-serif;
     margin: 1 rem;
+    border-radius: 5px;
+    padding: 5px;
+    width: 100px;
+    height: 25px;
 }
